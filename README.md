@@ -1,7 +1,8 @@
-CLI Currency Converter 💻
+CLI CURRENCY CONVERTER 💻
+
 Welcome to the Currency Converter! 🌟 This Command-Line Interface (CLI) application simplifies currency conversions efficiently. It supports a variety of currencies, including USD, EUR, GBP, INR, and PKR.
 
-How to Use
+HOW TO USE:
 Installation: Install the required dependencies using npm.
 
 Copy code
@@ -13,17 +14,19 @@ Copy code
 node main.js
 Perform Conversion: Follow the on-screen instructions to convert currencies effortlessly.
 
-Features
+FEATURES:
 Efficient Conversion: Easily convert between various currencies.
 User-Friendly Interface: Interactive command-line interface for seamless navigation.
 Instant Results: Get converted amounts instantly after entering input.
-Dependencies
+
+DEPENDENCIES:
 inquirer: Used for interactive command-line user interfaces.
 chalk: Utilized for styling command-line output with colors.
-Feedback
+
+FEEDBACK:
 If you have any feedback, suggestions, or encounter any issues, please feel free to open an issue in the repository.
 
-Connect with Me
+CONNECT WITH ME:
 Stay updated on the latest developments and projects by connecting with me on LinkedIn:
 🔗 www.linkedin.com/in/saba-owais-79a63a293
 
