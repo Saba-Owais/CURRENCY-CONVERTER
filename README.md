@@ -5,7 +5,7 @@ Welcome to the Currency Converter! 🌟 This Command-Line Interface (CLI) applic
 HOW TO USE:
 Installation: Install the required dependencies using npm.
 
-Copy code
+COPY CODE
 npm install
 Run the Application: Execute the application using the command:
 
@@ -15,11 +15,13 @@ node main.js
 Perform Conversion: Follow the on-screen instructions to convert currencies effortlessly.
 
 FEATURES:
+
 Efficient Conversion: Easily convert between various currencies.
 User-Friendly Interface: Interactive command-line interface for seamless navigation.
 Instant Results: Get converted amounts instantly after entering input.
 
 DEPENDENCIES:
+
 inquirer: Used for interactive command-line user interfaces.
 chalk: Utilized for styling command-line output with colors.
 
